@@ -1,6 +1,13 @@
 * {
 margin : 0;
 padding : 0;
-background-color: red;
-
+background-color: rgb(197, 50, 50);
 }
+img {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+align-content: center
+}
+;
+
